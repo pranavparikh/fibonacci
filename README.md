@@ -1,2 +1,2 @@
 # fibonacci
-Compute Fibonacci numbers.
+Compute Fibonacci numbers
