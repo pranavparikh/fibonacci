@@ -4,6 +4,6 @@ provider:
 
 functions:
   fibonacci:
-    lang: node11
+    lang: node10-express
     handler: ./fibonacci
     image: fibonacci:latest
