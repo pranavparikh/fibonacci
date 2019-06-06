@@ -15,7 +15,7 @@ async function* handler(req, res) {
 	    p = a
 	}
 
-	console.log("The n'th fibonacci number is: ", p)
+	//console.log("The n'th fibonacci number is: ", p)
 
 	res.status(200).send(p.toString())
     } catch(e) {
